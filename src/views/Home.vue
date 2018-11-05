@@ -1,5 +1,5 @@
 <template lang="pug">
-  div(class="home")
+  .home
     img(alt="Vue logo" src="../assets/logo.png")
     HelloWorld(msg="Welcome to Your Vue.js App")
 </template>
